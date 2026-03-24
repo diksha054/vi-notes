@@ -128,3 +128,26 @@ If you are interested in working on an existing feature request or proposing a n
 ## License
 
 This project is licensed under the MIT License.
+
+
+---
+
+## Authentication Feature (New) - User login and registration ( Feature Request #2 )
+
+This update introduces basic user authentication :
+- User Signup
+- User Login
+- JWT-based authentication
+
+---
+
+## Setup instructions for authentication 
+
+## Backend 
+- Install backend
+- Create a .env file using .env.example and add MONGO_URI , JWT_SECRET
+- Run backend : node app.js
+
+## Frontend
+- Install frontend
+- Run frontend : npm run dev 
